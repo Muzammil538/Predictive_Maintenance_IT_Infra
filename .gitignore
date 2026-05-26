@@ -1,3 +1,21 @@
 venv/
 
-new_trains/*
+.vscode/
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.env
+*.egg-info/
+dist/
+build/
+*.egg
+*.tar.gz
+*.whl
+.idea/
+*.iml
+*.sublime-project
